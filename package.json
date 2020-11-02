@@ -1,0 +1,19 @@
+{
+  "name": "login-module",
+  "version": "0.0.0",
+  "description": "Login Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyzaconde/CMSC100exer.git"
+  },
+  "author": "Allyza Conde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allyzaconde/CMSC100exer/issues"
+  },
+  "homepage": "https://github.com/allyzaconde/CMSC100exer#readme"
+}
